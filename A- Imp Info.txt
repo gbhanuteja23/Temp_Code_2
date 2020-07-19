@@ -1,0 +1,9 @@
+Previously when I tried to install npm using
+ npm install
+
+Installation always used to get failed at bufferutil.
+
+That's why I downloaded node_modules and then copied them in the git repo.
+
+
+But now I have removed node_modules from this repo.  
